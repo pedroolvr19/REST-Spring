@@ -26,3 +26,4 @@ public class RoleService {
 		return repository.findAll();
 	}
 }
+  

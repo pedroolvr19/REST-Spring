@@ -9,3 +9,4 @@ import br.com.dio.entity.Produto;
 public interface ProdutoRepository extends JpaRepository<Produto, Long> {
 
 }
+  
